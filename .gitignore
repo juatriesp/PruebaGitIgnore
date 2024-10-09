@@ -1,5 +1,3 @@
-*Hello*
-
-ignore.log
+*.log
 
 git ignore/*.pdf
